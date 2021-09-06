@@ -1,2 +1,2 @@
 # random-dice-simple
-A simple radom dice number generator made in Python.
+A simple random dice number generator that I made in Python. Run `python3 random-dice-simple.py` in a terminal if you have Python 3.
